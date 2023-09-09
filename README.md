@@ -22,16 +22,15 @@ print the final value
 ## Program:
 #Program to circulate N values.
 #Developed by: GANESH R
-#RegisterNumber: 22009090 
+#RegisterNumber: 212222240029
 def circulate():
-    circu=l[n:]+l[:n]
-    print("After circulating the values are:",circu)
-
-l=eval(input())
-n=int(input())
+    l=eval(input())
+    n=int(input())
+    a=l[n:]+l[:n]
+    print("After circulating the values are:",a)
 ```
 ## Output:
-![Web capture_21-1-2023_105043_lms ai saveetha ac in](https://user-images.githubusercontent.com/120884552/213844976-0d530d00-aae5-458d-8a75-da48bc145291.jpeg)
+![output](./p2.png)
 
 
 ## Result:
