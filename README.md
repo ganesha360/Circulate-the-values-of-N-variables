@@ -30,7 +30,7 @@ def circulate():
     print("After circulating the values are:",a)
 ```
 ## Output:
-![output](./p2.png)
+![output](./PE2.png)
 
 
 ## Result:
